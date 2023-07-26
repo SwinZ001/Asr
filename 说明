@@ -1,0 +1,6 @@
+make_Models.py 脚本是通过audio文件夹训练语音模型，运行完会生成对应的wave.ckpt语音模型
+Asr.py 脚本通过录音片段与wave.ckpt语音模型进行匹配，进行语音识别，并播放audio对应的语
+
+无关：
+test是获取系统音量的测试
+audio.py是通过谷歌接口进行语音识别
