@@ -4,3 +4,7 @@ Asr.py 脚本通过录音片段与wave.ckpt语音模型进行匹配，进行语�
 无关：
 test是获取系统音量的测试
 audio.py是通过谷歌接口进行语音识别
+
+好用的免费ocr工具
+迅捷PDF转换器：语音转文字https://app.xunjiepdf.com/voice2text/
+https://www.aconvert.com/cn/audio/
